@@ -13,3 +13,4 @@
 11.What is aggreagation ? <br>
 12.What is compostion ? <br>
 13.What is daimond problem in java? <br>
+14.What are the ways create an object in java ?   <br>
