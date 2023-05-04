@@ -1,7 +1,7 @@
 # OOPS_Practise_2023
 
 1.What is class ? <br>
-2.What is an object ?
+2.What is an object ? <br>
 3.What are the oops concepts ?
 4.What is inheritance ?
 5.What is Polymorphism?
